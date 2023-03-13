@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Test\\Skedda\\skedda-technical-challenge\\FisherYates\\FisherYatesLibrary\\FisherYatesLibrary.csproj",
+      "projectUniqueName": "D:\\3-Projects\\2-Test\\Skedda\\Skedda\\FisherYates\\FisherYatesLibrary\\FisherYatesLibrary.csproj",
       "projectName": "FisherYatesLibrary",
-      "projectPath": "D:\\Projects\\Test\\Skedda\\skedda-technical-challenge\\FisherYates\\FisherYatesLibrary\\FisherYatesLibrary.csproj",
+      "projectPath": "D:\\3-Projects\\2-Test\\Skedda\\Skedda\\FisherYates\\FisherYatesLibrary\\FisherYatesLibrary.csproj",
       "packagesPath": "C:\\Users\\salim\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Test\\Skedda\\skedda-technical-challenge\\FisherYates\\FisherYatesLibrary\\obj\\",
+      "outputPath": "D:\\3-Projects\\2-Test\\Skedda\\Skedda\\FisherYates\\FisherYatesLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\salim\\AppData\\Roaming\\NuGet\\NuGet.Config",

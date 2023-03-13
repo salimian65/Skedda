@@ -6669,11 +6669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Test\\Skedda\\skedda-technical-challenge\\FisherYates\\FisherYatestTests\\FisherYatestTests.csproj",
+      "projectUniqueName": "D:\\3-Projects\\2-Test\\Skedda\\Skedda\\FisherYates\\FisherYatestTests\\FisherYatestTests.csproj",
       "projectName": "FisherYatestTests",
-      "projectPath": "D:\\Projects\\Test\\Skedda\\skedda-technical-challenge\\FisherYates\\FisherYatestTests\\FisherYatestTests.csproj",
+      "projectPath": "D:\\3-Projects\\2-Test\\Skedda\\Skedda\\FisherYates\\FisherYatestTests\\FisherYatestTests.csproj",
       "packagesPath": "C:\\Users\\salim\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Test\\Skedda\\skedda-technical-challenge\\FisherYates\\FisherYatestTests\\obj\\",
+      "outputPath": "D:\\3-Projects\\2-Test\\Skedda\\Skedda\\FisherYates\\FisherYatestTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\salim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6690,8 +6690,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\Test\\Skedda\\skedda-technical-challenge\\FisherYates\\FisherYatesLibrary\\FisherYatesLibrary.csproj": {
-              "projectPath": "D:\\Projects\\Test\\Skedda\\skedda-technical-challenge\\FisherYates\\FisherYatesLibrary\\FisherYatesLibrary.csproj"
+            "D:\\3-Projects\\2-Test\\Skedda\\Skedda\\FisherYates\\FisherYatesLibrary\\FisherYatesLibrary.csproj": {
+              "projectPath": "D:\\3-Projects\\2-Test\\Skedda\\Skedda\\FisherYates\\FisherYatesLibrary\\FisherYatesLibrary.csproj"
             }
           }
         }
