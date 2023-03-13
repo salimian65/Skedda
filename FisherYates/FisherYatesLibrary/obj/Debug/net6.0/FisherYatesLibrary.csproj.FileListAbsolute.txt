@@ -1,0 +1,12 @@
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\bin\Debug\net6.0\FisherYatesLibrary.deps.json
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\bin\Debug\net6.0\FisherYatesLibrary.dll
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\bin\Debug\net6.0\ref\FisherYatesLibrary.dll
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\bin\Debug\net6.0\FisherYatesLibrary.pdb
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\obj\Debug\net6.0\FisherYatesLibrary.csproj.AssemblyReference.cache
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\obj\Debug\net6.0\FisherYatesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\obj\Debug\net6.0\FisherYatesLibrary.AssemblyInfoInputs.cache
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\obj\Debug\net6.0\FisherYatesLibrary.AssemblyInfo.cs
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\obj\Debug\net6.0\FisherYatesLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\obj\Debug\net6.0\FisherYatesLibrary.dll
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\obj\Debug\net6.0\ref\FisherYatesLibrary.dll
+D:\Projects\Test\Skedda\skedda-technical-challenge\FisherYates\FisherYatesLibrary\obj\Debug\net6.0\FisherYatesLibrary.pdb

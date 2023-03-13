@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4be5f112-9f99-462b-a46b-aa0e59277a35": {
+      "ProjectGuid": "4be5f112-9f99-462b-a46b-aa0e59277a35",
+      "DisplayName": "FisherYatesWebApp",
+      "ColorIndex": 0
+    },
+    "8cd793c6-9011-4233-acdf-ac8667598d30": {
+      "ProjectGuid": "8cd793c6-9011-4233-acdf-ac8667598d30",
+      "DisplayName": "FisherYatestTests",
+      "ColorIndex": 1
+    },
+    "cc40e917-5bf8-4a0a-a468-7453ba04c2f7": {
+      "ProjectGuid": "cc40e917-5bf8-4a0a-a468-7453ba04c2f7",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
+    },
+    "ec0c1210-6082-466d-85d1-a1aaf15e6b46": {
+      "ProjectGuid": "ec0c1210-6082-466d-85d1-a1aaf15e6b46",
+      "DisplayName": "FisherYatesLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
